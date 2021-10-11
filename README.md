@@ -1,1 +1,1 @@
-Amazon Clone v2.0 by Clever Programmer code-along with personalization.
+Utilized HTML, CSS, Tailwind CSS, JavaScript, and Firebase to create a dynamic redesign of the Amazon interface with Clever Programmer input.
